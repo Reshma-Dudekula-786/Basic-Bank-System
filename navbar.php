@@ -1,6 +1,6 @@
 <!-- navbar --> 
       <nav class="navbar navbar-expand-md navbar-light bg-light">
-      <a class="navbar-brand" href="index.php">SPARKS BANK</a>
+      <a class="navbar-brand" href="index.php">RESHMA BANK</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
